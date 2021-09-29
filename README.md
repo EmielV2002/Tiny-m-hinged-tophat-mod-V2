@@ -129,3 +129,7 @@ Step 18: Using the remaining M5x8 BHSC screws screw the hinges on the left and r
 **Overview:**
 
 ![image](https://user-images.githubusercontent.com/44370997/129535844-00291e8c-4b18-494f-a1c3-172548781705.png)
+
+
+**Extra:**
+In the printed parts tab you can find two stl's called corner 1 without rod and corner 2 without rod. You can print these parts in one piece instead of the usual two pieces. Because you can print these as one piece you don't need those steel rods and epoxy any longer. A special thanks to Discord user nehiLo for making this remix.
